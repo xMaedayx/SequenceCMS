@@ -1,0 +1,15 @@
+{
+  "name": "sequencecms",
+  "version": "8.2.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "xmaedayx"
+  },
+  "author": "Meghan",
+  "license": "MIT"
+}
