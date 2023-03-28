@@ -9,11 +9,11 @@ const db = mysql.createConnection(
     // MySQL username,
     user: "root",
     // TODO: Add MySQL password here
-    password: "",
+    password: "$777Flatland999$",
     database: "company_db",
   }
 );
 
-2
+
 ``
 module.exports = db
