@@ -24,11 +24,11 @@ VALUES
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id) 
 VALUES
-     ("Pascale", "Ehrenfreund",1, "Bill Nelson"),
+    ("Bill", "Nelson",5, 'null'),
+    ("Pascale", "Ehrenfreund",1, "Bill Nelson"),
     ("Edmond", "Halley",2, "Bill Nelson"),
     ("Nikola", "Tesla",3, "Bill Nelson"),
     ("Robert D.", "Cabana",4, "Bill Nelson"),
-    ("Bill", "Nelson",5, null),
     ("Pam", "Melroy",6, "Bill Nelson"),
     ("Tycho", "Brahe",7, "Bill Nelson"),
     ("George", "Cayley",8, "Bill Nelson"),
